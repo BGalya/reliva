@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+.env
+
+# React Native
+node_modules/
+*.log
+.expo/
+android/
+ios/
+*.keystore
+*.gradle
+
+# General
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*.bak
+server/gemini_service_connection_details.json
